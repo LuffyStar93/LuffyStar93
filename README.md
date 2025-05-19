@@ -1,6 +1,6 @@
 ### Bonjour à tous 👋
 
-🌱 Actuellement en recherche d'alternance pour Septembre 2024 pour une formation de Concepteur Développeur d'Applications option DevOps (CDA - DevOps)
+
 
 <!--
 **LuffyStar93/LuffyStar93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
